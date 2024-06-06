@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- ✨ I am available for part-time freelance projects through Upwork: <https://www.upwork.com/freelancers/michaelbcarey>
 - 🌱 I’m currently learning ... More about Microsoft's A.I. and Blazor Technologies.
 - ⚡ Fun fact: ... I enjoy Amateur (HAM) Radio and my call letters are KB7PPB.
 
